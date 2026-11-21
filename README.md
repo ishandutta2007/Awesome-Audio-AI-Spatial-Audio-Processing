@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Audio-AI-Spatial-Audio-Processing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Audio-AI-Spatial-Audio-Processing?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Audio-AI-Spatial-Audio-Processing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Audio-AI-Spatial-Audio-Processing?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Audio-AI-Spatial-Audio-Processing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Audio-AI-Spatial-Audio-Processing?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Audio-AI-Spatial-Audio-Processing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -68,7 +68,7 @@ Explore the most prominent open-source repositories powering modern Audio AI, ne
 
 ### ⭐ Open-Source Audio AI & Spatial Audio Ranking
 
-| Repository | GitHub Stars Badge | Primary License | Core Architectural Focus & Capabilities |
+| Repository | GitHub_Stars_Badge | Primary License | Core Architectural Focus & Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[openai/whisper](https://github.com/openai/whisper)** | [![Stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers) | MIT | General-purpose speech recognition, voice activity detection, and multilingual audio transcription. |
 | **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** | [![Stars](https://img.shields.io/github/stars/headroomlabs-ai/headroom?style=social&color=white)](https://github.com/headroomlabs-ai/headroom/stargazers) | Apache-2.0 | High-performance context optimization proxy and MCP server for real-time agent/LLM pipelines. |
